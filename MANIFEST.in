@@ -1,0 +1,2 @@
+include setup.py README.rst
+recursive-include modtran_wrapper/modtran_model.py __init__.py MODTRAN_master.tp5 mod5root.in
